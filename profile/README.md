@@ -1,4 +1,4 @@
-# Dawn Of Eve: letting Adam Optimiser rest in peace
+# 👩‍🔬 Dawn Of Eve: letting Adam Optimiser rest in peace
 
 Optimisers are the hammers that shape the models which perform miracles. They are the fundamental to Machine Learning and their research essential to building artificial intelligence. Advancement in optimisers benefits all and harms none. So why has the optimiser community had little effect on the overall progress of AI research in the past decade? why are we still where we were in 2014?
 
