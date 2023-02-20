@@ -6,8 +6,8 @@ Adam optimiser (Kingma et al., 2014) has dominated in the arena of optimisers fo
 
 We at Dawn of Eve plan to build tools and resources to help dethrone Adam once and for all, and we plan to do so with the following repositories:
 
-1. **Nadir**: A python library built on top of PyTorch for faster, bleeding edge, general purpose optimisers that can get you to the point of ***Nadir*** the fastest. 
-2. **Awesome Optimisers**: A repository built with love and care for Optimiser Researchers to speed up going from beginner to Godly optimally. Literature review should not hold you back anymore. 
+1. **Awesome Optimisers**: A repository built with love and care for Optimiser Researchers to speed up going from beginner to Godly optimally. Literature review should not hold you back anymore.
+2. **Nadir**: A python library built on top of PyTorch for faster, bleeding edge, general purpose optimisers that can get you to the point of ***Nadir*** the fastest.   
 3. ***More coming soon, sit tight***
 
 <!-- 
