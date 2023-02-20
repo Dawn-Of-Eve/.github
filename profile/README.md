@@ -1,10 +1,16 @@
-# Dawn Of Eve: Will Adam Optimizer Rest in Peace or Long Live and Prosper? 
+# Dawn Of Eve: letting Adam rest in peace
 
-Since ages Adam has absolutely dominated the Large Language Modelling Sphere for optimization.\
-Practically no other optimizer has come close since plain SGD to the prowess and general usability of Adam, to the point where even after considerable work showcasing improvements over Adam, it still rules. 
+Optimisers are the hammers that shape the models which perform miracles. They are the fundamental to Machine Learning and their research essential to building artificial intelligence. Advancement in optimisers benefits all and harms none. So why has the optimiser community had little effect on the overall progress of AI research in the past decade? why are we still where we were in 2014?
 
-This repository is a **reseach** project, meant to serve as a benchmark for experiments on Optimizers and Language Modelling. 
+Adam optimiser (Kingma et al., 2014) has dominated in the arena of optimisers for neural networks, and no other algorithm has been able to come close to its wide applicability, speed, reliability and overall popularity. Many have tried to dethrone it but none have prevailed. Till now...
 
+We at Dawn of Eve plan to build tools and resources to help dethrone Adam once and for all, and we plan to do so with the following repositories:
+
+1. **Nadir**: A python library built on top of PyTorch for faster, bleeding edge, general purpose optimisers that can get you to the point of ***Nadir*** the fastest. 
+2. **Awesome Optimisers**: A repository built with love and care for Optimiser Researchers to speed up going from beginner to Godly optimally. Literature review should not hold you back anymore. 
+3. ***More coming soon, sit tight***
+
+<!-- 
 ## Research Problems/Motivation
 
 Most people in the NLProc community directly utilize Adam Optimizers as a design choice without going through extensive search over optimizers, simply because of its robustness out-of-the-box. While helpful in abstrating out this part of the pipeline, it might be hurting performance more than one would realise, since the type of optimizer can determine the quality of model quiet drastically. (not all optimizers are the same)
@@ -21,15 +27,19 @@ Research Problems this project is trying to tackle:
 * "I see the claims of the alternatives but how well do they actually perform in practice?"
     * Without extensive experimentation and emperical (hard and cold) evidence to back the claims of improvement over Adam, nothing really matters. That's the beauty of the research community based on peer-review. 
     * Tragically, one of the reasons why most of the recent work on convex optimisation has not made it to the industry (at least for LLMing) is the lack of proper testing on language modelling objectives, used with transformer-like models. Most papers, if at all, test LLMing on LSTMs, which learn differently than Transformers and might have different results. 
+ -->
+
+<!-- ## Citation -->
 
 
-## Citations
+
+
 <!-- 
 If you wish to cite this work, please use the following bibtex:
 ```bibtex
 ``` -->
 
-For a list of citations regarding the papers used to make this repository, please refer to [citations.md](citations.md). If any citation is missing please inform the repository maintainer to get it included. 
+<!-- For a list of citations regarding the papers used to make this repository, please refer to [citations.md](citations.md). If any citation is missing please inform the repository maintainer to get it included.  -->
 
 ## Misc.
 
@@ -39,3 +49,5 @@ Here's a poem written for the demise of Adam:
 > Adam has Back-Pain  
 > Adam wants to Retire  
 >                       ~@bhavnicksm, 2022
+
+Good thing @bhavnicksm is better at writting PyTorch code than Poems :smirk:
