@@ -16,9 +16,10 @@ We at Dawn of Eve plan to build tools and resources to help dethrone Adam once a
 Hey! if you are interested in the same, why don't you help us out?
 
 There are a few ways you can help us:
-1. Sponser us! We try to work hard to get you the best of optimisers for no cost at all, but a coffee or a toffee would be quite motivating :smile:
-2. Make contributions to our repositories! All contributors are welcome and we would be delighted to have people help us. 
-3. Contact the maintainer to join the team, attend meetings and help build the Organisation from ground up with the Team Members. It is a commitment but we strongly believe we make the world a better place by optimising it (and having a lil' bit of fun along the way)
+1. ⭐ Star the repositories you liked! ⭐
+2. Sponsor us! We try to work hard to get you the best of optimisers for no cost at all, but a coffee or a toffee would be quite motivating :smile:
+3. Make contributions to our repositories! All contributors are welcome and we would be delighted to have people help us. 
+4. Contact the maintainer to join the team, attend meetings and help build the Organisation from ground up with the Team Members. It is a commitment but we strongly believe we make the world a better place by optimising it (and having a lil' bit of fun along the way)
 
 
 <!-- 
